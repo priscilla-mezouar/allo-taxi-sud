@@ -44,8 +44,8 @@
 
   </head>
   <body id="legal">
-  <?php include('./includes/header.php'); ?>
-
+  <?php include('./includes/barre-superieure.php');
+   include('./includes/header.php'); ?>
     <main role="main">
       <div class="title-page">
         <h1>Politique de confidentialité</h1>

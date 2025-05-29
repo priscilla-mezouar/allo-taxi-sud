@@ -44,6 +44,7 @@
 
   </head>
   <body id="maintenance">
+  <?php include('./includes/barre-superieure.php');?>
     <header>
       <a href="./index.php">
         <div class="logo">

@@ -42,8 +42,8 @@
   </head>
 
   <body class="articles">
-  <?php include('./includes/header.php'); ?>
-
+  <?php include('./includes/barre-superieure.php');
+   include('./includes/header.php'); ?>
     <main role="main">
       <div class="title-page">
         <h1>Les lieux à visiter dans le Sud</h1>
