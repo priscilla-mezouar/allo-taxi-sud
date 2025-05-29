@@ -1,14 +1,17 @@
 @import "./settings";
 
-@import "./layout/header";
-@import "./layout/footer";
+@import "./components/button-call";
+@import "./components/buttons";
+@import "./components/intro";
+@import "./components/title-page";
+
+@import "./layout/barre-sup";
 @import "./layout/card";
 @import "./layout/cta";
+@import "./layout/footer";
+@import "./layout/header";
 
-@import "./components/buttons";
-@import "./components/button-call";
-@import "./components/title-page";
-@import "./components/intro";
+@import "./pages/maintenance";
 
 @import "./pages/home/home-a-propos";
 @import "./pages/home/home-actualites-et-blog";

@@ -36,19 +36,21 @@
 
   </head>
   <body id="home">
-  <?php include('./includes/header.php'); ?>
+  <?php include('./includes/barre-superieure.php');
+   include('./includes/header.php'); ?>
 
     <main role="main">
 
-    <?php include('./includes/homepage/hero.php'); ?>
-    <?php include('./includes/homepage/services.php'); ?>
-    <?php include('./includes/homepage/reservation.php'); ?>
-    <?php include('./includes/homepage/a-propos.php'); ?>
-    <?php include('./includes/homepage/zones.php'); ?>
-    <?php include('./includes/homepage/nos-vehicules.php'); ?>
-    <?php include('./includes/homepage/temoignages.php'); ?>
-    <?php include('./includes/homepage/actualites-blog.php'); ?>
-    <?php include('./includes/homepage/faq.php'); ?>
+    <?php 
+    include('./includes/homepage/hero.php');
+    include('./includes/homepage/services.php'); 
+    include('./includes/homepage/reservation.php'); 
+    include('./includes/homepage/a-propos.php'); 
+    include('./includes/homepage/zones.php'); 
+    include('./includes/homepage/nos-vehicules.php'); 
+    include('./includes/homepage/temoignages.php'); 
+    include('./includes/homepage/actualites-blog.php'); 
+    include('./includes/homepage/faq.php'); ?>
     
     </main>
 <?php 
