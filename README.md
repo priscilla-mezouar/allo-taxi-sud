@@ -1,9 +1,3 @@
 # Allo Taxi Sud
 
-Plusieurs sites Web pour le groupe de taxis Allo Taxi Sud :
-
-- Allo Taxi Sud
-- Allo Taxi Sud Alpilles
-- Allo Taxi Sud Fontvieille
-- Allo Taxi Sud Tarascon
-- Allo Taxi Sud Saint-Étienne-du-Grès
+Allo Taxi Sud is a showcase website for a company offering taxi services in Fontvieille, Tarascon, Saint-Étienne-du-Grès and the Alpilles in France. 
