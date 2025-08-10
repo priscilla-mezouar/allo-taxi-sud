@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ERRVP2FMX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7ERRVP2FMX');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
@@ -43,6 +51,7 @@
 
 
   </head>
+  
   <body class="articles">
   <?php include('./includes/barre-superieure.php');
    include('./includes/header.php'); ?>

@@ -40,7 +40,15 @@
       content="Fêtes locales, marchés d'été, concerts et bien plus dans les Alpilles ! Réservez votre taxi avec Allo Taxi Sud." />
 
   </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ERRVP2FMX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-7ERRVP2FMX');
+</script>
   <body class="articles">
   <?php include('./includes/barre-superieure.php');
    include('./includes/header.php'); ?>
