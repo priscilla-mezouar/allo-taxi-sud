@@ -31,6 +31,7 @@ $body-font: "raleway", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
   box-sizing: border-box;
   font-family: $body-font;
   line-height: 35px;
+  user-select: none;
 
   &::selection {
     background: $color1;

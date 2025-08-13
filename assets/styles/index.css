@@ -12,6 +12,9 @@
   box-sizing: border-box;
   font-family: "raleway", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   line-height: 35px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
 }
 *::-moz-selection {
   background: #ffe14d;
