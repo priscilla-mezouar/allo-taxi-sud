@@ -15,11 +15,11 @@
 }
 *::-moz-selection {
   background: #ffe14d;
-  color: #fff;
+  color: #000;
 }
 *::selection {
   background: #ffe14d;
-  color: #fff;
+  color: #000;
 }
 
 body {
