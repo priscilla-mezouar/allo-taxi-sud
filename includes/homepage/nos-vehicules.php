@@ -46,18 +46,17 @@ echo'
                 </p>
               </div>
             </div>
-            <!-- <div class="grid-item-vehicules">
+            <div class="grid-item-vehicules">
               <div class="ico-auto">
-                <i class="bi bi-person-wheelchair"></i>
+                <i class="bi bi-bus-front"></i>
               </div>
               <div>
-                <h3>Véhicules adaptés</h3>
+                <h3>Véhicule 9 places</h3>
                 <p>
-                  Équipements spéciaux pour personnes à mobilité réduite,
-                  accessibilité et confort garantis.
+                  Idéal pour vos évènements (mariages, baptèmes,anniversaires,  etc.) et vos trajets à plusieurs.
                 </p>
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </section>

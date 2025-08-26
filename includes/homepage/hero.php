@@ -1,22 +1,20 @@
 <?php 
 
-echo '<section class="card" id="hero">
-        <div class="text">
+echo '<section id="hero">
+        <div class="text-container">
           <h1>Allo Taxi Sud </h1>
-          <h2>Votre partenaire de confiance pour tous vos déplacements</h2>
+          <h2>Votre taxi dans les Alpilles</h2>
           <p>
-            Transport de qualité et ponctuel dans toute la région des Alpilles
-            (Tarascon, Fontvieille, St-Étienne-du-Grès & ses alentours).
+            Allo Taxi Sud vous propose des transports de qualité pour tous vos trajets (transferts gares, transferts aéroports, transports privés, transports professionnels, transports évènements, ou encore transports médicaux) au départ de Fontvieille, Tarascon, Saint-Étienne-du-Grès, les Alpilles et ses alentours.
           </p>
           <a class="button-link" href="./demande-de-devis.php"
             >Demandez un devis</a
           >
           <a class="button-link" href="tel:+33667319832">Réservation express</a>
         </div>
-        <img
-          src="./assets/images/1.webp"
-          loading="lazy"
-          alt="Taxi de luxe dans les alpilles" />
+
       </section>';
+
+      
 
 ?>
