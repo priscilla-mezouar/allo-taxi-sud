@@ -386,7 +386,7 @@ header i {
 @media screen and (max-width: 900px) {
   header {
     grid-template-columns: 1fr;
-    margin: 0 auto;
+    margin: 0 auto 30px;
   }
 }
 header .logo {
@@ -820,12 +820,22 @@ header .button-header .button-link i {
   align-items: center;
   padding: 50px;
 }
+@media screen and (max-width: 1105px) {
+  #home #hero {
+    background: url(../images/4.webp) bottom right/cover;
+  }
+}
 #home #hero .text-container {
   width: 50%;
   background: rgba(39, 39, 43, 0.9);
   padding: 50px;
   border-radius: 20px;
   box-shadow: inset 0 0 20px #000;
+}
+@media screen and (max-width: 1105px) {
+  #home #hero .text-container {
+    width: 100%;
+  }
 }
 #home #hero .text-container h1,
 #home #hero .text-container h2 {
@@ -834,6 +844,11 @@ header .button-header .button-link i {
 #home #hero .text-container p {
   margin: 50px 0;
   text-align: justify;
+}
+@media screen and (max-width: 1105px) {
+  #home #hero .text-container p {
+    text-align: center;
+  }
 }
 #home #hero .text-container .links a {
   margin-right: 20px;
